@@ -1,0 +1,22 @@
+  
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Passwd		KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin		KEYWORD2
+init		KEYWORD2
+CheckPasswd	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+CR		LITERAL1
+LF		LITERAL1
+
